@@ -16,5 +16,5 @@ export const updateRecipe: RouteHandler = async (req, reply) => {
 };
 
 export const getRecipes: RouteHandler = async (req, reply) => {
-  reply.send(await RecipeApi.getRecipes());
+  reply.send(await RecipeApi.getRecipes({ params: req.query as any }));
 };

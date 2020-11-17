@@ -5,6 +5,7 @@ export const ingredientSchema = new Schema({
   name: {
     type: String,
     required: true,
+    text: true,
   },
   pluralName: {
     type: String,

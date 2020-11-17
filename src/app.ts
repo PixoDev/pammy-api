@@ -37,7 +37,6 @@ server.addHook("onRequest", async (request, reply) => {
   const isPublic = publicRoutes.indexOf(request.routerPath) !== -1;
 
   if (isPublic) {
-    console.log("is PUBLIC");
     return;
   }
   try {

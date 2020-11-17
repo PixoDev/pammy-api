@@ -5,6 +5,7 @@ export const recipeSchema = new Schema({
   name: {
     type: String,
     required: true,
+    text: true,
   },
   image: {
     type: String,
