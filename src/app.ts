@@ -2,7 +2,7 @@ import fastify from "fastify";
 import router, { routerPath } from "./router";
 import { config } from "dotenv";
 import fastifyJWT from "fastify-jwt";
-import { getEnv } from "@utils/env";
+import { getEnv, getMongoURI } from "@utils/env";
 import { formatResponse } from "@utils/hooks/formatResponse";
 import mongoose from "mongoose";
 import { PammyError } from "@utils/errors/unauthorizedError";
@@ -17,7 +17,7 @@ export const server = fastify({
 });
 
 mongoose
-  .connect(`mongodb://localhost:27017/${getEnv("MONGO_DB")}`, {
+  .connect(`${getMongoURI()}`, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
   })
@@ -25,7 +25,9 @@ mongoose
     console.log("Mongoose connection ready");
   })
   .catch(err => console.log("Error connecting to MongoDB", err));
-
+server.register(require("fastify-cors"), {
+  origin: "*",
+});
 server.register(fastifyJWT, {
   secret: getEnv("JWT_SECRET"),
   sign: {

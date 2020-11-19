@@ -22,3 +22,7 @@ export const updateIngredient = async (
     .lean()
     .exec();
 };
+
+export const getAll = async () => {
+  return IngredientModel.find().lean().exec();
+};

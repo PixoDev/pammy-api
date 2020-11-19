@@ -19,6 +19,10 @@ export const recipeSchema = new Schema({
     type: Number,
     required: true,
   },
+  level: {
+    type: Number,
+  },
+  ingredients: [{ _id: Schema.Types.ObjectId, qty: Number }],
 });
 
 export const RecipeModel = model<PammyRecipeDoc>("Recipe", recipeSchema);

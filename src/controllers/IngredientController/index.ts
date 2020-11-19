@@ -10,7 +10,7 @@ export const createIngredientsRouter = (fastify: FastifyInstance) => {
     IngredientController.getIngredient
   );
 
-  //fastify.get(routerPath("/ingredients"),IngredientController.getAll)
+  fastify.get(routerPath("/ingredients"), IngredientController.getAll);
   fastify.post(
     routerPath("/ingredients/new"),
     { schema: IngredientValidator.createIngredient },

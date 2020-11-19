@@ -5,8 +5,10 @@ export interface PammyRecipe {
   image: string;
   description: string;
   cookingTime: number;
+  steps?: { _id: string; qty: number };
+  level?: number;
 }
 
 export interface NewRecipePayload extends PammyRecipe {}
 
-export interface PammyRecipeDoc extends Document {}
+export interface PammyRecipeDoc extends Document, PammyRecipe {}

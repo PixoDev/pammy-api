@@ -14,7 +14,7 @@ export const createRecipeRouter = (fastify: FastifyInstance) => {
   );
 
   fastify.post(
-    routerPath("/recipes/:recipeId/update"),
+    routerPath("/recipes/:recipeId"),
     { schema: RecipeValidator.updateRecipe },
     RecipeController.updateRecipe
   );

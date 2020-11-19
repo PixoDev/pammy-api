@@ -1,3 +1,4 @@
+import { PammyRecipeDoc } from "@interfaces/recipe";
 import { PammyUser } from "@interfaces/user";
 import { WeekPlan, WeekPlanDayConfig } from "@interfaces/weekPlan";
 import { RecipeModel } from "@models/recipe.model";
@@ -36,13 +37,43 @@ export const getCurrentWeekPlan = async (user: PammyUser) => {
     return match;
   };
 
-  return weekPlan.days.map(day => {
-    return {
-      ...day,
-      lunch: getRecipe(day.lunch),
-      dinner: getRecipe(day.dinner),
-    };
-  });
+  return fillDays(
+    weekPlan.days.map(day => {
+      const formatted: FormattedDay = {
+        lunch: getRecipe(day.lunch),
+        dinner: getRecipe(day.dinner),
+        date: day.date,
+      };
+      return formatted;
+    }),
+    weekPlan.startingDate
+  );
+};
+
+interface FormattedDay {
+  lunch: Pick<PammyRecipeDoc, "_id">;
+  dinner: Pick<PammyRecipeDoc, "_id">;
+  date: Date;
+}
+
+const fillDays = (days: FormattedDay[], startingDate: Date) => {
+  const DURATION = 7;
+  const filledDays: any[] = [];
+  const dates: any[] = [];
+  const finishDate = new Date(
+    new Date(startingDate).setDate(startingDate.getDate() + DURATION)
+  );
+
+  /*  for(let i = 0; i < DURATION; i++) {
+    const toMatchDate = 
+    const match = days.find()
+  } */
+  return {
+    dates: dates,
+    filledDays: filledDays,
+    startingDate: startingDate,
+    finishDate: finishDate.toISOString(),
+  };
 };
 
 interface DayPlan {
