@@ -1,4 +1,6 @@
+import "module-alias/register";
 import app from "./app";
+
 const FASTIFY_PORT = Number(process.env.PORT) || 3006;
 
 app.listen(FASTIFY_PORT, err => {

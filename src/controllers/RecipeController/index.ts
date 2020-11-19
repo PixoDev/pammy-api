@@ -1,5 +1,5 @@
 import { FastifyInstance } from "fastify";
-import { routerPath } from "src/router";
+import { routerPath } from "../../router";
 
 import * as RecipeController from "./recipe.controller";
 import * as RecipeValidator from "./recipe.validator";
