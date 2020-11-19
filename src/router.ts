@@ -8,6 +8,9 @@ const apiVersion = "v1";
 
 export const routerPath = (path: string) => "/" + apiVersion + path;
 export default async function router(fastify: FastifyInstance) {
+  fastify.get(routerPath("/ping"), (_, reply) => {
+    reply.send("pong");
+  });
   // USER ROUTES
   createUserRouter(fastify);
 
