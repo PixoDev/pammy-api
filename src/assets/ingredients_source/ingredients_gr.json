@@ -1,0 +1,3472 @@
+[
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "jamón serrano",
+    "kcal_100gr/ml": 200,
+    "protein_100gr/ml": 20,
+    "carbs_100gr/ml": 0.4,
+    "fats_100gr/ml": 13,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 1.1
+  },
+  {
+    "unit": "gramo",
+    "name": "requesón",
+    "kcal_100gr/ml": 174,
+    "protein_100gr/ml": 11,
+    "carbs_100gr/ml": 3,
+    "fats_100gr/ml": 13,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.19
+  },
+  {
+    "unit": "gramo",
+    "name": "aceituna",
+    "kcal_100gr/ml": 115,
+    "protein_100gr/ml": 0.8,
+    "carbs_100gr/ml": 6,
+    "fats_100gr/ml": 11,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.74
+  },
+  {
+    "unit": "gramo",
+    "name": "mantequilla",
+    "kcal_100gr/ml": 717,
+    "protein_100gr/ml": 0.9,
+    "carbs_100gr/ml": 0.1,
+    "fats_100gr/ml": 81,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.03
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "hoja de laurel",
+    "kcal_100gr/ml": 353,
+    "protein_100gr/ml": 7.61,
+    "carbs_100gr/ml": 48.67,
+    "fats_100gr/ml": 8.36,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 1.54
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "bacon",
+    "kcal_100gr/ml": 541,
+    "protein_100gr/ml": 37,
+    "carbs_100gr/ml": 1.4,
+    "fats_100gr/ml": 42,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 2.29
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "gamba",
+    "kcal_100gr/ml": 94,
+    "protein_100gr/ml": 18,
+    "carbs_100gr/ml": 1.5,
+    "fats_100gr/ml": 1.8,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.3
+  },
+  {
+    "unit": "gramo",
+    "name": "mayonesa",
+    "kcal_100gr/ml": 680,
+    "protein_100gr/ml": 1,
+    "carbs_100gr/ml": 0.6,
+    "fats_100gr/ml": 0.75,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.66
+  },
+  {
+    "unit": "gramo",
+    "name": "albahaca",
+    "kcal_100gr/ml": 22,
+    "protein_100gr/ml": 3.2,
+    "carbs_100gr/ml": 2.7,
+    "fats_100gr/ml": 0.6,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.3
+  },
+  {
+    "unit": "gramo",
+    "name": "anchoa",
+    "kcal_100gr/ml": 210,
+    "protein_100gr/ml": 29,
+    "carbs_100gr/ml": 0,
+    "fats_100gr/ml": 10,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 4.23
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "perejil",
+    "kcal_100gr/ml": 36,
+    "protein_100gr/ml": 3,
+    "carbs_100gr/ml": 6,
+    "fats_100gr/ml": 0.8,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.61
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "queso rallado",
+    "kcal_100gr/ml": 431,
+    "protein_100gr/ml": 38.46,
+    "carbs_100gr/ml": "04.06",
+    "fats_100gr/ml": 28.61,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 3.9
+  },
+  {
+    "unit": "gramo",
+    "name": "lechuga",
+    "kcal_100gr/ml": 15,
+    "protein_100gr/ml": 1.4,
+    "carbs_100gr/ml": 2.9,
+    "fats_100gr/ml": 0.2,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.22
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "pan",
+    "kcal_100gr/ml": 265,
+    "protein_100gr/ml": 9,
+    "carbs_100gr/ml": 49,
+    "fats_100gr/ml": 3.2,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.66
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "nuez",
+    "kcal_100gr/ml": 607,
+    "protein_100gr/ml": 20,
+    "carbs_100gr/ml": 21,
+    "fats_100gr/ml": 54,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.9
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "azúcar",
+    "kcal_100gr/ml": 387,
+    "protein_100gr/ml": 0,
+    "carbs_100gr/ml": 100,
+    "fats_100gr/ml": 0,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.03
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "queso gruyer",
+    "kcal_100gr/ml": 413,
+    "protein_100gr/ml": 29.81,
+    "carbs_100gr/ml": 0.4,
+    "fats_100gr/ml": 32.34,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.71
+  },
+  {
+    "unit": "gramo",
+    "name": "piña",
+    "kcal_100gr/ml": 50,
+    "protein_100gr/ml": 0.5,
+    "carbs_100gr/ml": 13,
+    "fats_100gr/ml": 0.1,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.11
+  },
+  {
+    "unit": "gramo",
+    "name": "tofu",
+    "kcal_100gr/ml": 76,
+    "protein_100gr/ml": 8,
+    "carbs_100gr/ml": 1.9,
+    "fats_100gr/ml": 4.8,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.13
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "margarina",
+    "kcal_100gr/ml": 717,
+    "protein_100gr/ml": 0.2,
+    "carbs_100gr/ml": 0.7,
+    "fats_100gr/ml": 81,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.02
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "miel",
+    "kcal_100gr/ml": 304,
+    "protein_100gr/ml": 0.3,
+    "carbs_100gr/ml": 82,
+    "fats_100gr/ml": 0,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.06
+  },
+  {
+    "unit": "gramo",
+    "name": "cilantro",
+    "kcal_100gr/ml": 23,
+    "protein_100gr/ml": 2.13,
+    "carbs_100gr/ml": 3.7,
+    "fats_100gr/ml": 0,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.7
+  },
+  {
+    "unit": "gramo",
+    "name": "rúcula",
+    "kcal_100gr/ml": 25,
+    "protein_100gr/ml": 2.58,
+    "carbs_100gr/ml": 3.7,
+    "fats_100gr/ml": 0,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.43
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "azúcar moreno",
+    "kcal_100gr/ml": 380,
+    "protein_100gr/ml": 0.1,
+    "carbs_100gr/ml": 98,
+    "fats_100gr/ml": 0,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.16
+  },
+  {
+    "unit": "gramo",
+    "name": "yogur griego",
+    "kcal_100gr/ml": 59,
+    "protein_100gr/ml": 10,
+    "carbs_100gr/ml": 3.6,
+    "fats_100gr/ml": 0.4,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.17
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "queso feta",
+    "kcal_100gr/ml": 264,
+    "protein_100gr/ml": 14,
+    "carbs_100gr/ml": 4.1,
+    "fats_100gr/ml": 21,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 1.17
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "uva",
+    "kcal_100gr/ml": 67,
+    "protein_100gr/ml": 0.6,
+    "carbs_100gr/ml": 17,
+    "fats_100gr/ml": 0.4,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 193
+  },
+  {
+    "unit": "gramo",
+    "name": "pimienta cayena",
+    "kcal_100gr/ml": 282,
+    "protein_100gr/ml": 13,
+    "carbs_100gr/ml": 50,
+    "fats_100gr/ml": 14,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 3.6
+  },
+  {
+    "unit": "gramo",
+    "name": "cúrcuma",
+    "kcal_100gr/ml": 354,
+    "protein_100gr/ml": 7.83,
+    "carbs_100gr/ml": 64.93,
+    "fats_100gr/ml": 9.88,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 2.5
+  },
+  {
+    "unit": "gramo",
+    "name": "alubia roja",
+    "kcal_100gr/ml": 127,
+    "protein_100gr/ml": 7,
+    "carbs_100gr/ml": 22.8,
+    "fats_100gr/ml": 0.5,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0
+  },
+  {
+    "unit": "gramo",
+    "name": "alcachofa",
+    "kcal_100gr/ml": 47,
+    "protein_100gr/ml": 3.3,
+    "carbs_100gr/ml": 11,
+    "fats_100gr/ml": 0.2,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 4.64
+  },
+  {
+    "unit": "gramo",
+    "name": "berberecho en conserva",
+    "kcal_100gr/ml": 47,
+    "protein_100gr/ml": 10.7,
+    "carbs_100gr/ml": 0,
+    "fats_100gr/ml": 0.5,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0
+  },
+  {
+    "unit": "gramo",
+    "name": "judía verde",
+    "kcal_100gr/ml": 16.02,
+    "protein_100gr/ml": 0.7,
+    "carbs_100gr/ml": 2.55,
+    "fats_100gr/ml": 0.5,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.88
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "nuez moscada",
+    "kcal_100gr/ml": 525,
+    "protein_100gr/ml": 6,
+    "carbs_100gr/ml": 49,
+    "fats_100gr/ml": 36,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.36
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "jamón cocido",
+    "kcal_100gr/ml": 108,
+    "protein_100gr/ml": 28.5,
+    "carbs_100gr/ml": 0.1,
+    "fats_100gr/ml": 11.5,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0
+  },
+  {
+    "unit": "gramo",
+    "name": "queso brie",
+    "kcal_100gr/ml": 334,
+    "protein_100gr/ml": 21,
+    "carbs_100gr/ml": 0.5,
+    "fats_100gr/ml": 28,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.78
+  },
+  {
+    "unit": "gramo",
+    "name": "champiñón",
+    "kcal_100gr/ml": 22,
+    "protein_100gr/ml": 3.1,
+    "carbs_100gr/ml": 3.3,
+    "fats_100gr/ml": 0.3,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.32
+  },
+  {
+    "unit": "gramo",
+    "name": "seta",
+    "kcal_100gr/ml": 22,
+    "protein_100gr/ml": 3.1,
+    "carbs_100gr/ml": 3.3,
+    "fats_100gr/ml": 0.3,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.32
+  },
+  {
+    "unit": "gramo",
+    "name": "queso edam",
+    "kcal_100gr/ml": 357,
+    "protein_100gr/ml": 25,
+    "carbs_100gr/ml": 1.4,
+    "fats_100gr/ml": 28,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 1.15
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "anchoa en aceite",
+    "kcal_100gr/ml": 195,
+    "protein_100gr/ml": 24.7,
+    "carbs_100gr/ml": 0.1,
+    "fats_100gr/ml": 9.2,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 3.7
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "jamón de pavo",
+    "kcal_100gr/ml": 126,
+    "protein_100gr/ml": 17.5,
+    "carbs_100gr/ml": 2,
+    "fats_100gr/ml": 4.84,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 1.2
+  },
+  {
+    "unit": "gramo",
+    "name": "uva pasa",
+    "kcal_100gr/ml": 299,
+    "protein_100gr/ml": 3.1,
+    "carbs_100gr/ml": 79,
+    "fats_100gr/ml": 0.5,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.76
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "queso curado",
+    "kcal_100gr/ml": 467,
+    "protein_100gr/ml": 27.6,
+    "carbs_100gr/ml": 1,
+    "fats_100gr/ml": 39.6,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 1.09
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "azafrán",
+    "kcal_100gr/ml": 310,
+    "protein_100gr/ml": 11,
+    "carbs_100gr/ml": 65,
+    "fats_100gr/ml": 6,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 1.87
+  },
+  {
+    "unit": "gramo",
+    "name": "queso roquefort",
+    "kcal_100gr/ml": 369,
+    "protein_100gr/ml": 22,
+    "carbs_100gr/ml": 2,
+    "fats_100gr/ml": 31,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 1.9
+  },
+  {
+    "unit": "gramo",
+    "name": "cacao",
+    "kcal_100gr/ml": 228,
+    "protein_100gr/ml": 20,
+    "carbs_100gr/ml": 58,
+    "fats_100gr/ml": 14,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 1.54
+  },
+  {
+    "unit": "gramo",
+    "name": "queso fresco",
+    "kcal_100gr/ml": 310,
+    "protein_100gr/ml": 20,
+    "carbs_100gr/ml": 2.5,
+    "fats_100gr/ml": 24,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.83
+  },
+  {
+    "unit": "gramo",
+    "name": "panceta",
+    "kcal_100gr/ml": 541,
+    "protein_100gr/ml": 37,
+    "carbs_100gr/ml": 1.4,
+    "fats_100gr/ml": 42,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 2.28
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "alubia blanca",
+    "kcal_100gr/ml": 67,
+    "protein_100gr/ml": 6,
+    "carbs_100gr/ml": 13,
+    "fats_100gr/ml": 0.7,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.32
+  },
+  {
+    "unit": "gramo",
+    "name": "yogur",
+    "kcal_100gr/ml": 59,
+    "protein_100gr/ml": 10,
+    "carbs_100gr/ml": 3.6,
+    "fats_100gr/ml": 0.4,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.17
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "canela",
+    "kcal_100gr/ml": 247,
+    "protein_100gr/ml": 4,
+    "carbs_100gr/ml": 81,
+    "fats_100gr/ml": 1.2,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.44
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "arándano",
+    "kcal_100gr/ml": 57,
+    "protein_100gr/ml": 0.7,
+    "carbs_100gr/ml": 14,
+    "fats_100gr/ml": 0.3,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.78
+  },
+  {
+    "unit": "gramo",
+    "name": "calamar",
+    "kcal_100gr/ml": 175,
+    "protein_100gr/ml": 18,
+    "carbs_100gr/ml": 8,
+    "fats_100gr/ml": 7,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.58
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "guindilla",
+    "kcal_100gr/ml": 40,
+    "protein_100gr/ml": 1.9,
+    "carbs_100gr/ml": 9,
+    "fats_100gr/ml": 0.4,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.34
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "mejillón en conserva",
+    "kcal_100gr/ml": 83,
+    "protein_100gr/ml": 12,
+    "carbs_100gr/ml": 2,
+    "fats_100gr/ml": 2.9,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.72
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "cardamomo",
+    "kcal_100gr/ml": 311,
+    "protein_100gr/ml": 11,
+    "carbs_100gr/ml": 68,
+    "fats_100gr/ml": 7,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 1.1
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "costilla de ternera",
+    "kcal_100gr/ml": 355,
+    "protein_100gr/ml": 23,
+    "carbs_100gr/ml": 0,
+    "fats_100gr/ml": 29,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.36
+  },
+  {
+    "unit": "gramo",
+    "name": "ketchup",
+    "kcal_100gr/ml": 112,
+    "protein_100gr/ml": 1.3,
+    "carbs_100gr/ml": 26,
+    "fats_100gr/ml": 0.2,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 1.2
+  },
+  {
+    "unit": "gramo",
+    "name": "cereza",
+    "kcal_100gr/ml": 50,
+    "protein_100gr/ml": 1,
+    "carbs_100gr/ml": 12,
+    "fats_100gr/ml": 0.3,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.17
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "menestra de verdura",
+    "kcal_100gr/ml": 103,
+    "protein_100gr/ml": 2.6,
+    "carbs_100gr/ml": 4.8,
+    "fats_100gr/ml": 0.52,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.32
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "mejillón",
+    "kcal_100gr/ml": 172,
+    "protein_100gr/ml": 24,
+    "carbs_100gr/ml": 7,
+    "fats_100gr/ml": 4.5,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.64
+  },
+  {
+    "unit": "gramo",
+    "name": "garbanzo",
+    "kcal_100gr/ml": 364,
+    "protein_100gr/ml": 19,
+    "carbs_100gr/ml": 61,
+    "fats_100gr/ml": 6,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.9
+  },
+  {
+    "unit": "gramo",
+    "name": "maicena",
+    "kcal_100gr/ml": 381,
+    "protein_100gr/ml": 0.3,
+    "carbs_100gr/ml": 91,
+    "fats_100gr/ml": 0.1,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.12
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "canelón",
+    "kcal_100gr/ml": 153,
+    "protein_100gr/ml": 6.47,
+    "carbs_100gr/ml": 17.31,
+    "fats_100gr/ml": 6.39,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 1.9
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "gula",
+    "kcal_100gr/ml": 163,
+    "protein_100gr/ml": 9.5,
+    "carbs_100gr/ml": 7.8,
+    "fats_100gr/ml": 10,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "crema de cacao",
+    "kcal_100gr/ml": 541,
+    "protein_100gr/ml": 5,
+    "carbs_100gr/ml": 62,
+    "fats_100gr/ml": 30,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.44
+  },
+  {
+    "unit": "gramo",
+    "name": "granola",
+    "kcal_100gr/ml": 471,
+    "protein_100gr/ml": 10,
+    "carbs_100gr/ml": 64,
+    "fats_100gr/ml": 20,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.6
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "fideo",
+    "kcal_100gr/ml": 138,
+    "protein_100gr/ml": 4.5,
+    "carbs_100gr/ml": 25,
+    "fats_100gr/ml": 2.1,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.43
+  },
+  {
+    "unit": "gramo",
+    "name": "cuscús",
+    "kcal_100gr/ml": 112,
+    "protein_100gr/ml": 3.8,
+    "carbs_100gr/ml": 23,
+    "fats_100gr/ml": 0.2,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.63
+  },
+  {
+    "unit": "gramo",
+    "name": "masa quebrada",
+    "kcal_100gr/ml": 527,
+    "protein_100gr/ml": 6,
+    "carbs_100gr/ml": 48,
+    "fats_100gr/ml": 35,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.6
+  },
+  {
+    "unit": "gramo",
+    "name": "comino en polvo",
+    "kcal_100gr/ml": 375,
+    "protein_100gr/ml": 18,
+    "carbs_100gr/ml": 44,
+    "fats_100gr/ml": 22,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 1.95
+  },
+  {
+    "unit": "gramo",
+    "name": "crema de cacahuete",
+    "kcal_100gr/ml": 588,
+    "protein_100gr/ml": 25,
+    "carbs_100gr/ml": 20,
+    "fats_100gr/ml": 50,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.66
+  },
+  {
+    "unit": "gramo",
+    "name": "coco rallado",
+    "kcal_100gr/ml": 657,
+    "protein_100gr/ml": 6.8,
+    "carbs_100gr/ml": 12.4,
+    "fats_100gr/ml": 64.5,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.29
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "macarrón",
+    "kcal_100gr/ml": 371,
+    "protein_100gr/ml": 13,
+    "carbs_100gr/ml": 75,
+    "fats_100gr/ml": 1.5,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.22
+  },
+  {
+    "unit": "gramo",
+    "name": "mortadela",
+    "kcal_100gr/ml": 311,
+    "protein_100gr/ml": 16,
+    "carbs_100gr/ml": 3.1,
+    "fats_100gr/ml": 25,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 1.4
+  },
+  {
+    "unit": "gramo",
+    "name": "paté",
+    "kcal_100gr/ml": 319,
+    "protein_100gr/ml": 14,
+    "carbs_100gr/ml": 1.5,
+    "fats_100gr/ml": 28,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.83
+  },
+  {
+    "unit": "gramo",
+    "name": "semilla de hinojo",
+    "kcal_100gr/ml": 345,
+    "protein_100gr/ml": 15.8,
+    "carbs_100gr/ml": 52.3,
+    "fats_100gr/ml": 14.87,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 3.8
+  },
+  {
+    "unit": "gramo",
+    "name": "mermelada de fresa",
+    "kcal_100gr/ml": 210,
+    "protein_100gr/ml": 0.5,
+    "carbs_100gr/ml": 52,
+    "fats_100gr/ml": 0,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.5
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "salchichón",
+    "kcal_100gr/ml": 438,
+    "protein_100gr/ml": 19.25,
+    "carbs_100gr/ml": 1.4,
+    "fats_100gr/ml": 39.5,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 1.1
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "mermelada de mora",
+    "kcal_100gr/ml": 240,
+    "protein_100gr/ml": 0.5,
+    "carbs_100gr/ml": 58.7,
+    "fats_100gr/ml": 0.7,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.5
+  },
+  {
+    "unit": "gramo",
+    "name": "sobrasada",
+    "kcal_100gr/ml": 572,
+    "protein_100gr/ml": 15.89,
+    "carbs_100gr/ml": 2.97,
+    "fats_100gr/ml": 55.24,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 1.94
+  },
+  {
+    "unit": "gramo",
+    "name": "salsa pesto",
+    "kcal_100gr/ml": 534,
+    "protein_100gr/ml": 18.09,
+    "carbs_100gr/ml": 5.07,
+    "fats_100gr/ml": 50.04,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 1.75
+  },
+  {
+    "unit": "gramo",
+    "name": "semilla de lino",
+    "kcal_100gr/ml": 534,
+    "protein_100gr/ml": 18,
+    "carbs_100gr/ml": 29,
+    "fats_100gr/ml": 42,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.84
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "lomo",
+    "kcal_100gr/ml": 242,
+    "protein_100gr/ml": 27,
+    "carbs_100gr/ml": 0,
+    "fats_100gr/ml": 14,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.48
+  },
+  {
+    "unit": "gramo",
+    "name": "queso semicurado",
+    "kcal_100gr/ml": 417,
+    "protein_100gr/ml": 25,
+    "carbs_100gr/ml": 1.5,
+    "fats_100gr/ml": 34.5,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 1.8
+  },
+  {
+    "unit": "gramo",
+    "name": "yogur de soja",
+    "kcal_100gr/ml": 46,
+    "protein_100gr/ml": 4.6,
+    "carbs_100gr/ml": 0.7,
+    "fats_100gr/ml": 2.7,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "pan de avena",
+    "kcal_100gr/ml": 271,
+    "protein_100gr/ml": 8.4,
+    "carbs_100gr/ml": 48.5,
+    "fats_100gr/ml": 4.4,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.38
+  },
+  {
+    "unit": "gramo",
+    "name": "lenteja",
+    "kcal_100gr/ml": 116,
+    "protein_100gr/ml": 9,
+    "carbs_100gr/ml": 20,
+    "fats_100gr/ml": 0.4,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.37
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "queso gouda",
+    "kcal_100gr/ml": 356,
+    "protein_100gr/ml": 25,
+    "carbs_100gr/ml": 2.2,
+    "fats_100gr/ml": 27,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.94
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "mora",
+    "kcal_100gr/ml": 45,
+    "protein_100gr/ml": 1.19,
+    "carbs_100gr/ml": 6.24,
+    "fats_100gr/ml": 1,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.24
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "boquerón",
+    "kcal_100gr/ml": 138,
+    "protein_100gr/ml": 20.6,
+    "carbs_100gr/ml": 0.5,
+    "fats_100gr/ml": 6,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.1
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "esencia de vainilla",
+    "kcal_100gr/ml": 228,
+    "protein_100gr/ml": 0.1,
+    "carbs_100gr/ml": 13,
+    "fats_100gr/ml": 0.1,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.16
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "salsa bechamel",
+    "kcal_100gr/ml": 105,
+    "protein_100gr/ml": 3.8,
+    "carbs_100gr/ml": 7,
+    "fats_100gr/ml": 7,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.48
+  },
+  {
+    "unit": "gramo",
+    "name": "solomillo de ternera",
+    "kcal_100gr/ml": 213,
+    "protein_100gr/ml": 27,
+    "carbs_100gr/ml": 0.9,
+    "fats_100gr/ml": 11,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.42
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "col",
+    "kcal_100gr/ml": 25,
+    "protein_100gr/ml": 1.3,
+    "carbs_100gr/ml": 6,
+    "fats_100gr/ml": 0.1,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.2
+  },
+  {
+    "unit": "gramo",
+    "name": "semilla de sésamo",
+    "kcal_100gr/ml": 573,
+    "protein_100gr/ml": 18,
+    "carbs_100gr/ml": 23,
+    "fats_100gr/ml": 50,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.48
+  },
+  {
+    "unit": "gramo",
+    "name": "frambuesa",
+    "kcal_100gr/ml": 52,
+    "protein_100gr/ml": 1.2,
+    "carbs_100gr/ml": 1.94,
+    "fats_100gr/ml": 0.65,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.15
+  },
+  {
+    "unit": "gramo",
+    "name": "harina de trigo",
+    "kcal_100gr/ml": 364,
+    "protein_100gr/ml": 10,
+    "carbs_100gr/ml": 76,
+    "fats_100gr/ml": 1,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.11
+  },
+  {
+    "unit": "gramo",
+    "name": "arroz",
+    "kcal_100gr/ml": 130,
+    "protein_100gr/ml": 2.7,
+    "carbs_100gr/ml": 28,
+    "fats_100gr/ml": 0.3,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.5
+  },
+  {
+    "unit": "gramo",
+    "name": "cebolla en polvo",
+    "kcal_100gr/ml": 342,
+    "protein_100gr/ml": 10,
+    "carbs_100gr/ml": 79,
+    "fats_100gr/ml": 1,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 1.1
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "dátil",
+    "kcal_100gr/ml": 282,
+    "protein_100gr/ml": 2.5,
+    "carbs_100gr/ml": 75,
+    "fats_100gr/ml": 0.4,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.65
+  },
+  {
+    "unit": "gramo",
+    "name": "tomate seco",
+    "kcal_100gr/ml": 213,
+    "protein_100gr/ml": 5,
+    "carbs_100gr/ml": 23,
+    "fats_100gr/ml": 14,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 1.7
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "queso de untar",
+    "kcal_100gr/ml": 342,
+    "protein_100gr/ml": 6,
+    "carbs_100gr/ml": 4.1,
+    "fats_100gr/ml": 34,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.45
+  },
+  {
+    "unit": "gramo",
+    "name": "orégano",
+    "kcal_100gr/ml": 365,
+    "protein_100gr/ml": 9,
+    "carbs_100gr/ml": 68.9,
+    "fats_100gr/ml": 4.28,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 25
+  },
+  {
+    "unit": "gramo",
+    "name": "espinaca",
+    "kcal_100gr/ml": 20.74,
+    "protein_100gr/ml": 2.63,
+    "carbs_100gr/ml": 0.61,
+    "fats_100gr/ml": 0.3,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.8
+  },
+  {
+    "unit": "gramo",
+    "name": "harina de avena",
+    "kcal_100gr/ml": 68,
+    "protein_100gr/ml": 2.4,
+    "carbs_100gr/ml": 12,
+    "fats_100gr/ml": 1.4,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.12
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "maíz",
+    "kcal_100gr/ml": 86,
+    "protein_100gr/ml": 3.2,
+    "carbs_100gr/ml": 19,
+    "fats_100gr/ml": 1.2,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.28
+  },
+  {
+    "unit": "gramo",
+    "name": "levadura",
+    "kcal_100gr/ml": 105,
+    "protein_100gr/ml": 8,
+    "carbs_100gr/ml": 18,
+    "fats_100gr/ml": 1.9,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.63
+  },
+  {
+    "unit": "gramo",
+    "name": "pan rallado",
+    "kcal_100gr/ml": 395,
+    "protein_100gr/ml": 13,
+    "carbs_100gr/ml": 72,
+    "fats_100gr/ml": 5,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.73
+  },
+  {
+    "unit": "gramo",
+    "name": "almendra molida",
+    "kcal_100gr/ml": 611,
+    "protein_100gr/ml": 21.9,
+    "carbs_100gr/ml": 16.9,
+    "fats_100gr/ml": 50.6,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.9
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "piña en almíbar",
+    "kcal_100gr/ml": 65.7,
+    "protein_100gr/ml": 0.38,
+    "carbs_100gr/ml": 15.4,
+    "fats_100gr/ml": 0.11,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.1
+  },
+  {
+    "unit": "gramo",
+    "name": "hoja de menta",
+    "kcal_100gr/ml": 70,
+    "protein_100gr/ml": 3.8,
+    "carbs_100gr/ml": 15,
+    "fats_100gr/ml": 0.9,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.56
+  },
+  {
+    "unit": "gramo",
+    "name": "pistacho",
+    "kcal_100gr/ml": 562,
+    "protein_100gr/ml": 20,
+    "carbs_100gr/ml": 28,
+    "fats_100gr/ml": 45,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": "01.01"
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "queso cabrales",
+    "kcal_100gr/ml": 346,
+    "protein_100gr/ml": 24,
+    "carbs_100gr/ml": 0.1,
+    "fats_100gr/ml": 28,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 2.5
+  },
+  {
+    "unit": "gramo",
+    "name": "tomillo",
+    "kcal_100gr/ml": 101,
+    "protein_100gr/ml": 5.56,
+    "carbs_100gr/ml": 24.5,
+    "fats_100gr/ml": 1.68,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 1.1
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "avena",
+    "kcal_100gr/ml": 389,
+    "protein_100gr/ml": 16.89,
+    "carbs_100gr/ml": 66.3,
+    "fats_100gr/ml": 6.9,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 1
+  },
+  {
+    "unit": "gramo",
+    "name": "pasta de curry verde",
+    "kcal_100gr/ml": 280,
+    "protein_100gr/ml": 3.1,
+    "carbs_100gr/ml": 8.1,
+    "fats_100gr/ml": 25,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 6
+  },
+  {
+    "unit": "gramo",
+    "name": "chocolate con leche",
+    "kcal_100gr/ml": 535,
+    "protein_100gr/ml": 8,
+    "carbs_100gr/ml": 59,
+    "fats_100gr/ml": 30,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.4
+  },
+  {
+    "unit": "gramo",
+    "name": "queso parmesano vegano",
+    "kcal_100gr/ml": 279,
+    "protein_100gr/ml": 1.6,
+    "carbs_100gr/ml": 30,
+    "fats_100gr/ml": 17,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "avellana",
+    "kcal_100gr/ml": 628,
+    "protein_100gr/ml": 15,
+    "carbs_100gr/ml": 17,
+    "fats_100gr/ml": 61,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.68
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "sardina en aceite",
+    "kcal_100gr/ml": 224,
+    "protein_100gr/ml": 22.2,
+    "carbs_100gr/ml": 0,
+    "fats_100gr/ml": 15,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 1.88
+  },
+  {
+    "unit": "gramo",
+    "name": "kale",
+    "kcal_100gr/ml": 49,
+    "protein_100gr/ml": 4.3,
+    "carbs_100gr/ml": 9,
+    "fats_100gr/ml": 0.9,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.5
+  },
+  {
+    "unit": "gramo",
+    "name": "anacardo",
+    "kcal_100gr/ml": 553,
+    "protein_100gr/ml": 18,
+    "carbs_100gr/ml": 30,
+    "fats_100gr/ml": 44,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.67
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "hummus",
+    "kcal_100gr/ml": 166,
+    "protein_100gr/ml": 8,
+    "carbs_100gr/ml": 14,
+    "fats_100gr/ml": 10,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.6
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "aceituna negra",
+    "kcal_100gr/ml": 143,
+    "protein_100gr/ml": 0.6,
+    "carbs_100gr/ml": 0.07,
+    "fats_100gr/ml": 15.4,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 1
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "mostaza",
+    "kcal_100gr/ml": 66,
+    "protein_100gr/ml": 4.4,
+    "carbs_100gr/ml": 5,
+    "fats_100gr/ml": 4,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 1.2
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "romero",
+    "kcal_100gr/ml": 345,
+    "protein_100gr/ml": 5,
+    "carbs_100gr/ml": 46.4,
+    "fats_100gr/ml": 15.2,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.67
+  },
+  {
+    "unit": "gramo",
+    "name": "café",
+    "kcal_100gr/ml": 0,
+    "protein_100gr/ml": 0.1,
+    "carbs_100gr/ml": 0,
+    "fats_100gr/ml": 0,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.51
+  },
+  {
+    "unit": "gramo",
+    "name": "cereal",
+    "kcal_100gr/ml": 378,
+    "protein_100gr/ml": 6,
+    "carbs_100gr/ml": 87,
+    "fats_100gr/ml": 1.1,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.95
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "chocolate negro",
+    "kcal_100gr/ml": 546,
+    "protein_100gr/ml": 4.9,
+    "carbs_100gr/ml": 61,
+    "fats_100gr/ml": 31,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.57
+  },
+  {
+    "unit": "gramo",
+    "name": "lubina",
+    "kcal_100gr/ml": 98,
+    "protein_100gr/ml": 19,
+    "carbs_100gr/ml": 0,
+    "fats_100gr/ml": 3,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.85
+  },
+  {
+    "unit": "gramo",
+    "name": "roast beef",
+    "kcal_100gr/ml": 170,
+    "protein_100gr/ml": 29,
+    "carbs_100gr/ml": 0,
+    "fats_100gr/ml": 6,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.4
+  },
+  {
+    "unit": "gramo",
+    "name": "salvado de avena",
+    "kcal_100gr/ml": 340,
+    "protein_100gr/ml": 17,
+    "carbs_100gr/ml": 51,
+    "fats_100gr/ml": 7,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0
+  },
+  {
+    "unit": "gramo",
+    "name": "mermelada de frutos del bosque",
+    "kcal_100gr/ml": 44,
+    "protein_100gr/ml": 0,
+    "carbs_100gr/ml": 11.7,
+    "fats_100gr/ml": 0,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0
+  },
+  {
+    "unit": "gramo",
+    "name": "pepinillo",
+    "kcal_100gr/ml": 11,
+    "protein_100gr/ml": 0.3,
+    "carbs_100gr/ml": 2.3,
+    "fats_100gr/ml": 0.2,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 1.22
+  },
+  {
+    "unit": "gramo",
+    "name": "caballa",
+    "kcal_100gr/ml": 262,
+    "protein_100gr/ml": 24,
+    "carbs_100gr/ml": 0,
+    "fats_100gr/ml": 18,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.48
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "rodaballo",
+    "kcal_100gr/ml": 102,
+    "protein_100gr/ml": 16,
+    "carbs_100gr/ml": 0,
+    "fats_100gr/ml": 3.6,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.5
+  },
+  {
+    "unit": "gramo",
+    "name": "ternera",
+    "kcal_100gr/ml": 172,
+    "protein_100gr/ml": 24,
+    "carbs_100gr/ml": 0,
+    "fats_100gr/ml": 8,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.4
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "papel de arroz",
+    "kcal_100gr/ml": 33,
+    "protein_100gr/ml": 0,
+    "carbs_100gr/ml": 8,
+    "fats_100gr/ml": 0,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.1
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "soja texturizada",
+    "kcal_100gr/ml": 364,
+    "protein_100gr/ml": 50,
+    "carbs_100gr/ml": 30,
+    "fats_100gr/ml": 4,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.1
+  },
+  {
+    "unit": "gramo",
+    "name": "agar-agar",
+    "kcal_100gr/ml": 26,
+    "protein_100gr/ml": 0.5,
+    "carbs_100gr/ml": 7,
+    "fats_100gr/ml": 0,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.3
+  },
+  {
+    "unit": "gramo",
+    "name": "queso mascarpone",
+    "kcal_100gr/ml": 430,
+    "protein_100gr/ml": 5.7,
+    "carbs_100gr/ml": 2.3,
+    "fats_100gr/ml": 47,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.23
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "pan de molde",
+    "kcal_100gr/ml": 326,
+    "protein_100gr/ml": 4.3,
+    "carbs_100gr/ml": 54.6,
+    "fats_100gr/ml": 10.5,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.42
+  },
+  {
+    "unit": "gramo",
+    "name": "tomate triturado",
+    "kcal_100gr/ml": 22,
+    "protein_100gr/ml": 1,
+    "carbs_100gr/ml": 3.6,
+    "fats_100gr/ml": 0.2,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": "01.05"
+  },
+  {
+    "unit": "gramo",
+    "name": "chistorra",
+    "kcal_100gr/ml": 306,
+    "protein_100gr/ml": 16,
+    "carbs_100gr/ml": "06.03",
+    "fats_100gr/ml": 24.2,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 2.75
+  },
+  {
+    "unit": "gramo",
+    "name": "mermelada de frambuesa",
+    "kcal_100gr/ml": 253,
+    "protein_100gr/ml": 0.45,
+    "carbs_100gr/ml": 60.9,
+    "fats_100gr/ml": 0.3,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.12
+  },
+  {
+    "unit": "gramo",
+    "name": "leche condensada",
+    "kcal_100gr/ml": 321,
+    "protein_100gr/ml": 8,
+    "carbs_100gr/ml": 54,
+    "fats_100gr/ml": 9,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.42
+  },
+  {
+    "unit": "gramo",
+    "name": "bicarbonato de sodio",
+    "kcal_100gr/ml": 0,
+    "protein_100gr/ml": 0,
+    "carbs_100gr/ml": 0,
+    "fats_100gr/ml": 0,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 28
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "remolacha",
+    "kcal_100gr/ml": 43,
+    "protein_100gr/ml": 1.6,
+    "carbs_100gr/ml": 10,
+    "fats_100gr/ml": 0.2,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.39
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "nachos de maíz",
+    "kcal_100gr/ml": 479,
+    "protein_100gr/ml": 6.3,
+    "carbs_100gr/ml": 67,
+    "fats_100gr/ml": 20,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0
+  },
+  {
+    "unit": "gramo",
+    "name": "haba",
+    "kcal_100gr/ml": 88,
+    "protein_100gr/ml": 8,
+    "carbs_100gr/ml": 18,
+    "fats_100gr/ml": 0.7,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.33
+  },
+  {
+    "unit": "gramo",
+    "name": "tempeh",
+    "kcal_100gr/ml": 193,
+    "protein_100gr/ml": 19,
+    "carbs_100gr/ml": 9,
+    "fats_100gr/ml": 11,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.5
+  },
+  {
+    "unit": "gramo",
+    "name": "trigo sarraceno",
+    "kcal_100gr/ml": 340,
+    "protein_100gr/ml": 11.5,
+    "carbs_100gr/ml": 71.3,
+    "fats_100gr/ml": 1.7,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.6
+  },
+  {
+    "unit": "gramo",
+    "name": "edamame",
+    "kcal_100gr/ml": 122,
+    "protein_100gr/ml": 11,
+    "carbs_100gr/ml": 10,
+    "fats_100gr/ml": 5,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.5
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "azúcar de coco",
+    "kcal_100gr/ml": 399,
+    "protein_100gr/ml": 2,
+    "carbs_100gr/ml": 94,
+    "fats_100gr/ml": 0,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0
+  },
+  {
+    "unit": "gramo",
+    "name": "harina de espelta",
+    "kcal_100gr/ml": 334,
+    "protein_100gr/ml": 14.4,
+    "carbs_100gr/ml": 64,
+    "fats_100gr/ml": 2.6,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.1
+  },
+  {
+    "unit": "gramo",
+    "name": "harina de fuerza",
+    "kcal_100gr/ml": 350,
+    "protein_100gr/ml": 11,
+    "carbs_100gr/ml": 71,
+    "fats_100gr/ml": 1.8,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.1
+  },
+  {
+    "unit": "gramo",
+    "name": "harina de garbanzo",
+    "kcal_100gr/ml": 387,
+    "protein_100gr/ml": 22,
+    "carbs_100gr/ml": 58,
+    "fats_100gr/ml": 7,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 1
+  },
+  {
+    "unit": "gramo",
+    "name": "harina de quinua",
+    "kcal_100gr/ml": 75,
+    "protein_100gr/ml": 2,
+    "carbs_100gr/ml": 12,
+    "fats_100gr/ml": 1,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.05
+  },
+  {
+    "unit": "gramo",
+    "name": "hojaldre",
+    "kcal_100gr/ml": 558,
+    "protein_100gr/ml": 7,
+    "carbs_100gr/ml": 46,
+    "fats_100gr/ml": 39,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.3
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "pan integral",
+    "kcal_100gr/ml": 313,
+    "protein_100gr/ml": 13,
+    "carbs_100gr/ml": 56,
+    "fats_100gr/ml": 4.3,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.8
+  },
+  {
+    "unit": "gramo",
+    "name": "pan rústico",
+    "kcal_100gr/ml": 386,
+    "protein_100gr/ml": 14,
+    "carbs_100gr/ml": 71,
+    "fats_100gr/ml": 4,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 1.6
+  },
+  {
+    "unit": "gramo",
+    "name": "picatoste",
+    "kcal_100gr/ml": 407,
+    "protein_100gr/ml": 12,
+    "carbs_100gr/ml": 74,
+    "fats_100gr/ml": 7,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.8
+  },
+  {
+    "unit": "gramo",
+    "name": "sirope de agave",
+    "kcal_100gr/ml": 310,
+    "protein_100gr/ml": 0.1,
+    "carbs_100gr/ml": 76,
+    "fats_100gr/ml": 0.5,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.1
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "comino",
+    "kcal_100gr/ml": 375,
+    "protein_100gr/ml": 18,
+    "carbs_100gr/ml": 44,
+    "fats_100gr/ml": 22,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 1.8
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "ñoqui",
+    "kcal_100gr/ml": 256,
+    "protein_100gr/ml": 6.27,
+    "carbs_100gr/ml": 46.96,
+    "fats_100gr/ml": 4.36,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.66
+  },
+  {
+    "unit": "gramo",
+    "name": "cacahuete",
+    "kcal_100gr/ml": 567,
+    "protein_100gr/ml": 26,
+    "carbs_100gr/ml": 16,
+    "fats_100gr/ml": 49,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.75
+  },
+  {
+    "unit": "gramo",
+    "name": "volován",
+    "kcal_100gr/ml": 467,
+    "protein_100gr/ml": 8.22,
+    "carbs_100gr/ml": 34.64,
+    "fats_100gr/ml": 32.91,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.62
+  },
+  {
+    "unit": "gramo",
+    "name": "mermelada de albaricoque",
+    "kcal_100gr/ml": 467,
+    "protein_100gr/ml": 0.5,
+    "carbs_100gr/ml": 48,
+    "fats_100gr/ml": 0,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0
+  },
+  {
+    "unit": "gramo",
+    "name": "mermelada de naranja",
+    "kcal_100gr/ml": 246,
+    "protein_100gr/ml": 0,
+    "carbs_100gr/ml": 66.3,
+    "fats_100gr/ml": 0,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.1
+  },
+  {
+    "unit": "gramo",
+    "name": "atún en conserva",
+    "kcal_100gr/ml": 116,
+    "protein_100gr/ml": 25.51,
+    "carbs_100gr/ml": 0,
+    "fats_100gr/ml": 0.82,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 1
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "ajo en polvo",
+    "kcal_100gr/ml": 331,
+    "protein_100gr/ml": 17,
+    "carbs_100gr/ml": 73,
+    "fats_100gr/ml": 0.7,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 1.23
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "curry",
+    "kcal_100gr/ml": 325,
+    "protein_100gr/ml": 13,
+    "carbs_100gr/ml": 58,
+    "fats_100gr/ml": 14,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 1.6
+  },
+  {
+    "unit": "gramo",
+    "name": "pimentón dulce",
+    "kcal_100gr/ml": 282,
+    "protein_100gr/ml": 14,
+    "carbs_100gr/ml": 54,
+    "fats_100gr/ml": 13,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 2.32
+  },
+  {
+    "unit": "gramo",
+    "name": "pimienta negra",
+    "kcal_100gr/ml": 251,
+    "protein_100gr/ml": 10,
+    "carbs_100gr/ml": 64,
+    "fats_100gr/ml": 3.3,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 1.45
+  },
+  {
+    "unit": "gramo",
+    "name": "sal",
+    "kcal_100gr/ml": 0,
+    "protein_100gr/ml": 0,
+    "carbs_100gr/ml": 0,
+    "fats_100gr/ml": 0,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.04
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "leche evaporada",
+    "kcal_100gr/ml": 134,
+    "protein_100gr/ml": 7,
+    "carbs_100gr/ml": 10,
+    "fats_100gr/ml": 8,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.45
+  },
+  {
+    "unit": "gramo",
+    "name": "queso azul",
+    "kcal_100gr/ml": 353,
+    "protein_100gr/ml": 21,
+    "carbs_100gr/ml": 2.3,
+    "fats_100gr/ml": 29,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 1.5
+  },
+  {
+    "unit": "gramo",
+    "name": "queso cheddar",
+    "kcal_100gr/ml": 402,
+    "protein_100gr/ml": 25,
+    "carbs_100gr/ml": 1.3,
+    "fats_100gr/ml": 33,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.71
+  },
+  {
+    "unit": "gramo",
+    "name": "queso de cabra",
+    "kcal_100gr/ml": 364,
+    "protein_100gr/ml": 22,
+    "carbs_100gr/ml": 0.1,
+    "fats_100gr/ml": 30,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.7
+  },
+  {
+    "unit": "gramo",
+    "name": "queso gorgonzola",
+    "kcal_100gr/ml": 316,
+    "protein_100gr/ml": 19,
+    "carbs_100gr/ml": 1.5,
+    "fats_100gr/ml": 26,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 2.11
+  },
+  {
+    "unit": "gramo",
+    "name": "queso mozzarella",
+    "kcal_100gr/ml": 280,
+    "protein_100gr/ml": 28,
+    "carbs_100gr/ml": 3.1,
+    "fats_100gr/ml": 17,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.15
+  },
+  {
+    "unit": "gramo",
+    "name": "queso parmesano",
+    "kcal_100gr/ml": 431,
+    "protein_100gr/ml": 38,
+    "carbs_100gr/ml": 4.1,
+    "fats_100gr/ml": 29,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 1.75
+  },
+  {
+    "unit": "gramo",
+    "name": "queso tierno",
+    "kcal_100gr/ml": 310,
+    "protein_100gr/ml": 20,
+    "carbs_100gr/ml": 2.5,
+    "fats_100gr/ml": 24,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.8
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "acelga",
+    "kcal_100gr/ml": 21,
+    "protein_100gr/ml": 2.1,
+    "carbs_100gr/ml": 4.5,
+    "fats_100gr/ml": 0.2,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.6
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "apio",
+    "kcal_100gr/ml": 16,
+    "protein_100gr/ml": 0,
+    "carbs_100gr/ml": 3,
+    "fats_100gr/ml": 0,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.4
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "brote de soja",
+    "kcal_100gr/ml": 54.9,
+    "protein_100gr/ml": 5.53,
+    "carbs_100gr/ml": 4.68,
+    "fats_100gr/ml": "01.03",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.3
+  },
+  {
+    "unit": "gramo",
+    "name": "canónigo",
+    "kcal_100gr/ml": 21,
+    "protein_100gr/ml": 2,
+    "carbs_100gr/ml": 3.6,
+    "fats_100gr/ml": 0,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.6
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "cebollino",
+    "kcal_100gr/ml": 30,
+    "protein_100gr/ml": 3.3,
+    "carbs_100gr/ml": 4.4,
+    "fats_100gr/ml": 0.7,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.3
+  },
+  {
+    "unit": "gramo",
+    "name": "col de bruselas",
+    "kcal_100gr/ml": 43,
+    "protein_100gr/ml": 3.4,
+    "carbs_100gr/ml": 9,
+    "fats_100gr/ml": 0.3,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.4
+  },
+  {
+    "unit": "gramo",
+    "name": "fresa",
+    "kcal_100gr/ml": 33,
+    "protein_100gr/ml": 0.7,
+    "carbs_100gr/ml": 8,
+    "fats_100gr/ml": 0.3,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.15
+  },
+  {
+    "unit": "gramo",
+    "name": "hierbabuena",
+    "kcal_100gr/ml": 44,
+    "protein_100gr/ml": 3.3,
+    "carbs_100gr/ml": 8,
+    "fats_100gr/ml": 0.7,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.49
+  },
+  {
+    "unit": "gramo",
+    "name": "jengibre",
+    "kcal_100gr/ml": 80,
+    "protein_100gr/ml": 1.8,
+    "carbs_100gr/ml": 18,
+    "fats_100gr/ml": 0.8,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.45
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "maíz tostado",
+    "kcal_100gr/ml": 436,
+    "protein_100gr/ml": 9,
+    "carbs_100gr/ml": 72,
+    "fats_100gr/ml": 14,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 1
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "pimiento del padrón",
+    "kcal_100gr/ml": 21,
+    "protein_100gr/ml": 0.9,
+    "carbs_100gr/ml": 5.1,
+    "fats_100gr/ml": 0.1,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 2.8
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "sandía",
+    "kcal_100gr/ml": 30,
+    "protein_100gr/ml": 0.6,
+    "carbs_100gr/ml": 8,
+    "fats_100gr/ml": 0.2,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.1
+  },
+  {
+    "unit": "gramo",
+    "name": "almeja",
+    "kcal_100gr/ml": 54,
+    "protein_100gr/ml": 15.4,
+    "carbs_100gr/ml": 1.5,
+    "fats_100gr/ml": 1.3,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.7
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "bacalao",
+    "kcal_100gr/ml": 74.4,
+    "protein_100gr/ml": 17.7,
+    "carbs_100gr/ml": 0,
+    "fats_100gr/ml": 0.4,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.5
+  },
+  {
+    "unit": "gramo",
+    "name": "carne picada de cerdo",
+    "kcal_100gr/ml": 241,
+    "protein_100gr/ml": 24,
+    "carbs_100gr/ml": 0,
+    "fats_100gr/ml": 15,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.3
+  },
+  {
+    "unit": "gramo",
+    "name": "carne picada de pavo",
+    "kcal_100gr/ml": 189,
+    "protein_100gr/ml": 29,
+    "carbs_100gr/ml": 0.1,
+    "fats_100gr/ml": 7,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.34
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "costilla de cerdo",
+    "kcal_100gr/ml": 281,
+    "protein_100gr/ml": 17,
+    "carbs_100gr/ml": 0,
+    "fats_100gr/ml": 23.6,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "lenguado",
+    "kcal_100gr/ml": 81,
+    "protein_100gr/ml": 16.5,
+    "carbs_100gr/ml": 0,
+    "fats_100gr/ml": 3,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.6
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "pollo",
+    "kcal_100gr/ml": 239,
+    "protein_100gr/ml": 27,
+    "carbs_100gr/ml": 0,
+    "fats_100gr/ml": 14,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.3
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "",
+    "name": "",
+    "kcal_100gr/ml": "",
+    "protein_100gr/ml": "",
+    "carbs_100gr/ml": "",
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": ""
+  },
+  {
+    "unit": "gramo",
+    "name": "sardina",
+    "kcal_100gr/ml": 208,
+    "protein_100gr/ml": 24.62,
+    "carbs_100gr/ml": 0,
+    "fats_100gr/ml": 11.45,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.3
+  },
+  {
+    "unit": "gramo",
+    "name": "solomillo de cerdo",
+    "kcal_100gr/ml": 143,
+    "protein_100gr/ml": 26,
+    "carbs_100gr/ml": 0,
+    "fats_100gr/ml": 3.5,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.47
+  },
+  {
+    "unit": "gramo",
+    "name": "trucha",
+    "kcal_100gr/ml": 141,
+    "protein_100gr/ml": 20,
+    "carbs_100gr/ml": 0,
+    "fats_100gr/ml": 6,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.4
+  },
+  {
+    "unit": "gramo",
+    "name": "alcaparra",
+    "kcal_100gr/ml": 23,
+    "protein_100gr/ml": 2.36,
+    "carbs_100gr/ml": 4.9,
+    "fats_100gr/ml": "",
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 2.5
+  },
+  {
+    "unit": "gramo",
+    "name": "chocolate blanco",
+    "kcal_100gr/ml": 539,
+    "protein_100gr/ml": 6,
+    "carbs_100gr/ml": 59,
+    "fats_100gr/ml": 32,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.4
+  },
+  {
+    "unit": "gramo",
+    "name": "alubia negra",
+    "kcal_100gr/ml": 304,
+    "protein_100gr/ml": 22,
+    "carbs_100gr/ml": 49,
+    "fats_100gr/ml": 0,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0
+  },
+  {
+    "unit": "gramo",
+    "name": "alubia pinta",
+    "kcal_100gr/ml": 195,
+    "protein_100gr/ml": 10.74,
+    "carbs_100gr/ml": 38.09,
+    "fats_100gr/ml": 2.81,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 1.2
+  },
+  {
+    "unit": "gramo",
+    "name": "espagueti",
+    "kcal_100gr/ml": 158,
+    "protein_100gr/ml": 6,
+    "carbs_100gr/ml": 31,
+    "fats_100gr/ml": 0.9,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.05
+  },
+  {
+    "unit": "gramo",
+    "name": "guisante",
+    "kcal_100gr/ml": 81,
+    "protein_100gr/ml": 5,
+    "carbs_100gr/ml": 14,
+    "fats_100gr/ml": 0.4,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.25
+  },
+  {
+    "unit": "gramo",
+    "name": "lámina de lasaña",
+    "kcal_100gr/ml": 373,
+    "protein_100gr/ml": 12.5,
+    "carbs_100gr/ml": 77,
+    "fats_100gr/ml": 1,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.1
+  },
+  {
+    "unit": "gramo",
+    "name": "pasta",
+    "kcal_100gr/ml": 131,
+    "protein_100gr/ml": 5,
+    "carbs_100gr/ml": 25,
+    "fats_100gr/ml": 1.1,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.03
+  },
+  {
+    "unit": "gramo",
+    "name": "quinua",
+    "kcal_100gr/ml": 399,
+    "protein_100gr/ml": 16.5,
+    "carbs_100gr/ml": 69,
+    "fats_100gr/ml": 6.3,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.61
+  },
+  {
+    "unit": "gramo",
+    "name": "almendra",
+    "kcal_100gr/ml": 589,
+    "protein_100gr/ml": 24,
+    "carbs_100gr/ml": 5.7,
+    "fats_100gr/ml": 53,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 1.3
+  },
+  {
+    "unit": "gramo",
+    "name": "piñón",
+    "kcal_100gr/ml": 673,
+    "protein_100gr/ml": 14,
+    "carbs_100gr/ml": 13,
+    "fats_100gr/ml": 68,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.6
+  },
+  {
+    "unit": "gramo",
+    "name": "semilla de chía",
+    "kcal_100gr/ml": 486,
+    "protein_100gr/ml": 17,
+    "carbs_100gr/ml": 42,
+    "fats_100gr/ml": 31,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.41
+  },
+  {
+    "unit": "gramo",
+    "name": "semilla de comino",
+    "kcal_100gr/ml": 375,
+    "protein_100gr/ml": 17.81,
+    "carbs_100gr/ml": 44.2,
+    "fats_100gr/ml": 22.3,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 2.1
+  },
+  {
+    "unit": "gramo",
+    "name": "semilla de girasol",
+    "kcal_100gr/ml": 584,
+    "protein_100gr/ml": 21,
+    "carbs_100gr/ml": 20,
+    "fats_100gr/ml": 51,
+    "vitamins_100gr/ml": "",
+    "minerals_100gr/ml": 0.65
+  }
+]

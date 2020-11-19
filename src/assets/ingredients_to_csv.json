@@ -1,0 +1,3793 @@
+[
+  {
+    "name": "tomate",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "salmón",
+    "unit": "filete",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "jamón serrano",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "queso ricotta",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "aceituna",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "mantequilla",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "vinagre de vino",
+    "unit": "mililitro",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "hoja de laurel",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "espárrago verde",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "bacon",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "zumo de limón",
+    "unit": "mililitro",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "salsa de soja",
+    "unit": "mililitro",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "gamba",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "mayonesa",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "albahaca",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "anchoa",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "leche",
+    "unit": "mililitro",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "patata",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "perejil",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "zanahoria",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "queso rallado",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "lechuga",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "agua",
+    "unit": "mililitro",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "calabacín",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "pan",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "pimiento rojo",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "limón",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "nuez",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "ajo",
+    "unit": "diente",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "azúcar",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "cebolla",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "melón",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "naranja",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "queso gruyer",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "piña",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "tofu",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "pechuga de pavo",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "margarina",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "coliflor",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "miel",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "cilantro",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "rúcula",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "plátano",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "azúcar moreno",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "yogur griego",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "mango",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "queso feta",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "merluza",
+    "unit": "filete",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "vino blanco",
+    "unit": "mililitro",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "uva",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "pimienta cayena",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "cúrcuma",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "alubia roja",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "alcachofa congelada",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "berberecho en conserva",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "judía verde",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "alcachofa en conserva",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "nuez moscada",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "filete de cerdo",
+    "unit": "filete",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "jamón cocido",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "queso brie",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "champiñón",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "seta",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "queso edam",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "alita de pollo",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "anchoa en aceite",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "brócoli",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "jamón de pavo",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "uva pasa",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "zumo de naranja",
+    "unit": "mililitro",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "queso curado",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "galleta",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "azafrán",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "queso roquefort",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "cacao",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "queso fresco",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "panceta",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "brandy",
+    "unit": "mililitro",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "champiñón en conserva",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "alubia blanca",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "yogur",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "clara de huevo",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "chile serrano",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "canela",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "batata",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "arándano",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "calamar",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "cebolleta",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "guindilla",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "kiwi",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "mejillón en conserva",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "morcilla",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "cardamomo",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "chuleta de cerdo",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "chuleta de ternera",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "costilla de ternera",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "judía blanca en conserva",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "ketchup",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "cereza",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "quesito",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "huevo de codorniz",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "menestra de verdura",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "coñac",
+    "unit": "mililitro",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "mejillón",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "garbanzo",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "maicena",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "english muffin",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "coco",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "canelón",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "garam masala",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "vino tinto",
+    "unit": "mililitro",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "gula",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "pollo asado",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "crema de cacao",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "granola",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "ciruela",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "harina de maíz",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "fideo",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "cuscús",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "masa quebrada",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "comino en polvo",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "crema de cacahuete",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "coco rallado",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "vinagre de arroz",
+    "unit": "mililitro",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "macarrón",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "mortadela",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "paté",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "semilla de hinojo",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "mermelada de fresa",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "salsa barbacoa",
+    "unit": "mililitro",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "salchichón",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "col lombarda",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "mermelada de mora",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "queso en lonchas",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "sobrasada",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "salsa pesto",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "semilla de lino",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "vinagre modena",
+    "unit": "mililitro",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "lomo",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "queso semicurado",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "yogur de soja",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "yogur vegetal",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "tomate cherry",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "lenteja en conserva",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "queso bola",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "aceite de girasol",
+    "unit": "mililitro",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "pan de avena",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "lenteja",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "pan hindú",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "queso gouda",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "miga de pan",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "cebolla morada",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "mora",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "calabaza",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "boquerón",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "costilla de cordero",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "esencia de vainilla",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "leche vegetal",
+    "unit": "mililitro",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "salsa bechamel",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "solomillo de ternera",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "tortilla de trigo",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "col",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "semilla de sésamo",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "frambuesa",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "harina de trigo",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "arroz",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "cebolla en polvo",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "caldo de ave",
+    "unit": "mililitro",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "dátil",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "tomate seco",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "aceite de oliva",
+    "unit": "mililitro",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "queso de untar",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "orégano",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "espinaca",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "harina de avena",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "espinaca baby",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "pimiento verde",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "leche de soja",
+    "unit": "mililitro",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "chile",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "fruta",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "maíz",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "levadura",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "pan rallado",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "mermelada",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "almendra molida",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "atún rojo",
+    "unit": "filete",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "piña en almíbar",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "hoja de menta",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "pistacho",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "pak choi",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "queso cabrales",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "tomillo",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "nata líquida",
+    "unit": "mililitro",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "avena",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "pasta de curry verde",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "chocolate con leche",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "queso parmesano vegano",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "longaniza",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "avellana",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "espárrago blanco",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "sardina en aceite",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "kale",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "anacardo",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "chorizo",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "hummus",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "melocotón",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "aceituna negra",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "queso sandwich",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "vinagre balsámico",
+    "unit": "mililitro",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "mostaza",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "cogollo de lechuga",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "romero",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "café",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "cereal",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "albaricoque",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "boquerón",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "chocolate negro",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "lubina",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "roast beef",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "salvado de avena",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "mermelada de frutos del bosque",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "pepinillo",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "caballa",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "nata montada",
+    "unit": "mililitro",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "rodaballo",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "ternera",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "vodka",
+    "unit": "mililitro",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "papel de arroz",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "corvina",
+    "unit": "filete",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "higo",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "yema de huevo",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "soja texturizada",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "agar-agar",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "queso mascarpone",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "nectarina",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "pan de molde",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "tomate triturado",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "chistorra",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "mermelada de frambuesa",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "leche condensada",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "bicarbonato de sodio",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "dorada",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "seitán",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "remolacha en conserva",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "brote de soja",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "nachos de maíz",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "queso",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "harina de tritordeum",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "haba",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "tempeh",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "trigo sarraceno",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "edamame",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "Azúcar de Coco",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "Harina de fuerza",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "azúcar de coco",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "harina de espelta",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "harina de fuerza",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "harina de garbanzo",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "harina de quinua",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "hojaldre",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "oblea",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "pan integral",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "pan rústico",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "picatoste",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "sirope de agave",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "tortilla de maíz",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "palmito",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "comino",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "salsa sriracha",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "cardo",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "granada",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "carne picada de cerdo",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "palito de cangrejo",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "sirope de dátil",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "ñoqui",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "cacahuete",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "volován",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "mermelada de albaricoque",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "mermelada de naranja",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "atún en conserva",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "boquerón en vinagre",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "garbanzo en conserva",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "guisante en conserva",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "aceite de coco",
+    "unit": "mililitro",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "aceite de sésamo",
+    "unit": "mililitro",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "ajo en polvo",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "caldo de pescado",
+    "unit": "mililitro",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "caldo de verduras",
+    "unit": "mililitro",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "curry",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "jengibre en polvo",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "pimentón dulce",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "pimienta negra",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "sal",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "salsa bechamel vegana",
+    "unit": "mililitro",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "salsa tahini",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "salsa yondu",
+    "unit": "mililitro",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "tomate frito",
+    "unit": "mililitro",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "vinagre de jerez",
+    "unit": "mililitro",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "vinagre de manzana",
+    "unit": "mililitro",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "huevo",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "leche de almendra",
+    "unit": "mililitro",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "leche de coco",
+    "unit": "mililitro",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "leche evaporada",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "queso azul",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "queso cheddar",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "queso cheddar vegano",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "queso de cabra",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "queso gorgonzola",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "queso mozzarella",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "queso parmesano",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "queso tierno",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "agua con gas",
+    "unit": "mililitro",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "cerveza",
+    "unit": "mililitro",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "acelga",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "aguacate",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "alcachofa",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "apio",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "berenjena",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "brote de lechuga",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "brote de soja",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "canónigo",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "caqui",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "cebollino",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "col de bruselas",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "fresa",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "hierbabuena",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "jengibre",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "lima",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "maíz tostado",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "mandarina",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "manzana",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "mazorca",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "pepino",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "pera",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "pimiento amarillo",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "pimiento del padrón",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "pimiento piquillo",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "puerro",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "rábano",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "remolacha",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "sandía",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "almeja",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "atún fresco",
+    "unit": "filete",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "bacalao",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "bacalao desalado",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "carne picada",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "carne picada de pavo",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "chuleta de cordero",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "costilla de cerdo",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "filete de ternera",
+    "unit": "filete",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "langostino",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "lenguado",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "lomo de cerdo",
+    "unit": "filete",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "lomo de ternera",
+    "unit": "filete",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "muslo de pollo",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "pechuga de pollo",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "pollo",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "salchicha",
+    "unit": "unidad",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "salmón ahumado",
+    "unit": "filete",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "sardina",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "solomillo de cerdo",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "trucha",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "alcaparra",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "chocolate blanco",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "alubia negra",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "alubia pinta",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "espagueti",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "guisante",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "lámina de lasaña",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "pasta",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "quinua",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "almendra",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "fruto seco",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "piñón",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "semilla de chía",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "semilla de comino",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "semilla de girasol",
+    "unit": "gramo",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "harina de almendra",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "tortilla de harina",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  },
+  {
+    "name": "pan pita",
+    "kcal_100gr": null,
+    "protein_100gr": null,
+    "carbs_100gr": null,
+    "fats_100gr": null,
+    "vitamins_100gr": null,
+    "minerals_100gr": null
+  }
+]
